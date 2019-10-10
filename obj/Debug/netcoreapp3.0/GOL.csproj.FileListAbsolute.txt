@@ -1,0 +1,11 @@
+C:\Users\GABRIEL\desktop\github\GOL\obj\Debug\netcoreapp3.0\GOL.csprojAssemblyReference.cache
+C:\Users\GABRIEL\desktop\github\GOL\obj\Debug\netcoreapp3.0\GOL.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\desktop\github\GOL\obj\Debug\netcoreapp3.0\GOL.AssemblyInfo.cs
+C:\Users\GABRIEL\desktop\github\GOL\bin\Debug\netcoreapp3.0\GOL.exe
+C:\Users\GABRIEL\desktop\github\GOL\bin\Debug\netcoreapp3.0\GOL.deps.json
+C:\Users\GABRIEL\desktop\github\GOL\bin\Debug\netcoreapp3.0\GOL.runtimeconfig.json
+C:\Users\GABRIEL\desktop\github\GOL\bin\Debug\netcoreapp3.0\GOL.runtimeconfig.dev.json
+C:\Users\GABRIEL\desktop\github\GOL\bin\Debug\netcoreapp3.0\GOL.dll
+C:\Users\GABRIEL\desktop\github\GOL\bin\Debug\netcoreapp3.0\GOL.pdb
+C:\Users\GABRIEL\desktop\github\GOL\obj\Debug\netcoreapp3.0\GOL.dll
+C:\Users\GABRIEL\desktop\github\GOL\obj\Debug\netcoreapp3.0\GOL.pdb
